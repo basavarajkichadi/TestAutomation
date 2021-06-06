@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestNG Automation">
+<test name="Assignment">
+<classes>
+
+<class name="com.sgtesting.framework.Assignment1"></class>
+
+
+
+</classes>
+</test>
+</suite>
