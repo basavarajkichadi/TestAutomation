@@ -16,8 +16,8 @@ public class Assignment7 {
 		createProject();
 		createTask();
 		deleteTask();
-		//logout();
-		//closeApplication();
+		logout();
+		closeApplication();
 	}
 	static void launchBrowser()
 	{
@@ -135,7 +135,7 @@ public class Assignment7 {
 		{
 			oBrowser.findElement(By.xpath("//*[@id='taskListBlock']/div[1]/table/tbody/tr/td[1]/div/div")).click();
 			Thread.sleep(2000);
-			oBrowser.findElement(By.className("deleteButton")).click();
+			oBrowser.findElement(By.xpath("//div[@class='deleteButton']")).click();
 			Thread.sleep(2000);
 			oBrowser.findElement(By.id("deleteTaskPopup_deleteConfirm_submitBtn")).click();
 			Thread.sleep(2000);
