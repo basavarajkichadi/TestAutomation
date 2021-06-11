@@ -15,7 +15,7 @@ public class Assignment1 {
 		createUser();
 		deleteUser();
 		logout();
-		//closeApplication();
+		closeApplication();
 		
 	}
 	

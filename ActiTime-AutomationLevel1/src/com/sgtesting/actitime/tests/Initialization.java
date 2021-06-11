@@ -44,7 +44,7 @@ public class Initialization {
 	{
 		try
 		{
-			oBrowser.get("http://localhost/login.do");
+			oBrowser.get("http://localhost:81/user/submit_tt.do");
 			Thread.sleep(2000);
 		}catch(Exception e)
 		{
