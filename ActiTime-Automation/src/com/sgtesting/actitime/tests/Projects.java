@@ -3,13 +3,12 @@ package com.sgtesting.actitime.tests;
 public class Projects {
 	
 	/**
-	 * Test case ID:
-	 * Test case Name:
 	 * Created By:
 	 * Created Date:
 	 * Reviewed By:
-	 * Parameters:
-	 * return Value:
+	 * Test case ID:
+	 * parameters:
+	 * return type:
 	 * Purpose:
 	 * Description:
 	 */
@@ -25,13 +24,12 @@ public class Projects {
 	}
 	
 	/**
-	 * Test case ID:
-	 * Test case Name:
 	 * Created By:
 	 * Created Date:
 	 * Reviewed By:
-	 * Parameters:
-	 * return Value:
+	 * Test case ID:
+	 * parameters:
+	 * return type:
 	 * Purpose:
 	 * Description:
 	 */
@@ -47,13 +45,12 @@ public class Projects {
 	}
 	
 	/**
-	 * Test case ID:
-	 * Test case Name:
 	 * Created By:
 	 * Created Date:
 	 * Reviewed By:
-	 * Parameters:
-	 * return Value:
+	 * Test case ID:
+	 * parameters:
+	 * return type:
 	 * Purpose:
 	 * Description:
 	 */
