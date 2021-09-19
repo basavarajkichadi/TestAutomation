@@ -1,5 +1,7 @@
 package com.sgtesting.actitime.tests;
 
+import org.testng.asserts.Assertion;
+
 public class Customers {
 	
 	/**

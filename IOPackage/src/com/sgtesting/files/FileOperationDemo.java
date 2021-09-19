@@ -10,7 +10,7 @@ public class FileOperationDemo {
 		// moveFile();
 		//deleteFile();
 		//fileAttributes();
-		fileCollection1();
+		//fileCollection1();
 		//fileCollection2();
 	}
 
@@ -42,7 +42,10 @@ public class FileOperationDemo {
 		{
 			f1=new File("E:\\File\\sample.txt");
 			f2=new File("E:\\File\\Example.txt");
-			f1.renameTo(f2);
+			boolean bool=f1.renameTo(f2);
+			if(bool==true) {System.out.println("File got renamed");}
+			else System.out.println("Failed to rename the file");
+			
 		}catch(Exception e)
 		{
 			e.printStackTrace();

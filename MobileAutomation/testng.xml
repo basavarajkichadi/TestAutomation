@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testng suite">
+	<test name="classs level">
+		<classes>
+			<class name="com.sg.automation.Assignment1"></class>
+			<class name="com.sg.automation.Assignment2"></class>
+			<class name="com.sg.automation.Assignment3"></class>
+			<class name="com.sg.automation.Assignment4"></class>
+			<class name="com.sg.automation.Assignment5"></class>
+		</classes>
+	</test>
+</suite>
