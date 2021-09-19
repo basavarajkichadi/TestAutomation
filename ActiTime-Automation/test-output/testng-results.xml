@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ActiTime Automation" duration-ms="297194" started-at="2021-06-14T18:52:14 IST" finished-at="2021-06-14T18:57:11 IST">
+    <groups>
+    </groups>
+    <test name="ActiTime Automation tests" duration-ms="297194" started-at="2021-06-14T18:52:14 IST" finished-at="2021-06-14T18:57:11 IST">
+      <class name="com.sgtesting.actitime.driverscript.DriverScript">
+        <test-method status="PASS" signature="startAutomationSuite()[pri:0, instance:com.sgtesting.actitime.driverscript.DriverScript@544a2ea6]" name="startAutomationSuite" is-config="true" duration-ms="17" started-at="2021-06-14T18:52:14 IST" finished-at="2021-06-14T18:52:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAutomationSuite -->
+        <test-method status="PASS" signature="loadFiles()[pri:0, instance:com.sgtesting.actitime.driverscript.DriverScript@544a2ea6]" name="loadFiles" is-config="true" duration-ms="40" started-at="2021-06-14T18:52:14 IST" finished-at="2021-06-14T18:52:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadFiles -->
+        <test-method status="PASS" signature="executeTestScenarios()[pri:0, instance:com.sgtesting.actitime.driverscript.DriverScript@544a2ea6]" name="executeTestScenarios" duration-ms="296921" started-at="2021-06-14T18:52:14 IST" finished-at="2021-06-14T18:57:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeTestScenarios -->
+        <test-method status="PASS" signature="endAutomationSuite()[pri:0, instance:com.sgtesting.actitime.driverscript.DriverScript@544a2ea6]" name="endAutomationSuite" is-config="true" duration-ms="1946" started-at="2021-06-14T18:57:12 IST" finished-at="2021-06-14T18:57:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endAutomationSuite -->
+      </class> <!-- com.sgtesting.actitime.driverscript.DriverScript -->
+    </test> <!-- ActiTime Automation tests -->
+  </suite> <!-- ActiTime Automation -->
+</testng-results>

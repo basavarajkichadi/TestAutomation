@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [testng suite]">
+  <test thread-count="5" name="classs level(failed)">
+    <classes>
+      <class name="com.sg.automation.Assignment1">
+        <methods>
+          <include name="testCase1"/>
+          <include name="desiredCapablities"/>
+          <include name="quitDriver"/>
+        </methods>
+      </class> <!-- com.sg.automation.Assignment1 -->
+    </classes>
+  </test> <!-- classs level(failed) -->
+</suite> <!-- Failed suite [testng suite] -->

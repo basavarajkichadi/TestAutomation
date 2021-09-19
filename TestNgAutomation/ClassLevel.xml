@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestNG Automation">
+<test name="Assignment">
+<classes>
+
+<class name="com.sgtesting.framework.Assignment1"></class>
+<class name="com.sgtesting.framework.Assignment2"></class>
+<class name="com.sgtesting.framework.Assignment3"></class>
+<class name="com.sgtesting.framework.Assignment4"></class>
+<class name="com.sgtesting.framework.Assignment5"></class>
+<class name="com.sgtesting.framework.Assignment6"></class>
+<class name="com.sgtesting.framework.Assignment7"></class>
+<class name="com.sgtesting.framework.Assignment8"></class>
+<class name="com.sgtesting.framework.Assignment9"></class>
+
+</classes>
+</test>
+</suite>
